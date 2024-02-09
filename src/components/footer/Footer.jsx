@@ -20,8 +20,11 @@ const Footer = () => {
         </ul>
 
         <h4>
-          This App is Designed & Developed By &copy; AJIT PRASAD || 2024 All
-          rights reserved
+          This App is Designed & Developed By&nbsp;
+          <span className="nam">
+            Ajit<span className="invi">.</span>Prasad&nbsp;
+          </span>
+          || &copy; 2024 All rights reserved
         </h4>
         <div className="infoText">
           I have developed a video streaming Application using React.js and
